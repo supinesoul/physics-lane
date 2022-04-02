@@ -1,2 +1,2 @@
 # physics-lane
-A bruef intro. On physics and physical phenomenon
+A brief intro. On physics and physical phenomenon
